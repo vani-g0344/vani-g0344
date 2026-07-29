@@ -27,7 +27,7 @@ A technically disciplined developer specializing in machine learning pipelines, 
 * **Amazon ML Summer School 2026:** Officially shortlisted candidate for the competitive National Selection cohort.
 * **Myntra WeForShe HackerRamp 2026:** Selected to compete in the National Online Assessment engineering.
 * **Samsung Solve for Tomorrow:** Active innovator and national ecosystem challenge participant.
-* **Hackathon:** Cleared Round 1 & advanced to Round 2 (Technical Coding Challenge)— HackVega 2.0 National Hackathon, among 47,000+ engineering participants. 
+* **Hackathon:** Cleared Round 1 & advanced to Round 2 (Technical Coding Challenge) — HackVega 2.0 National Hackathon, among 47,000+ engineering participants. 
 
 ---
 
