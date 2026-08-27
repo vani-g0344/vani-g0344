@@ -16,7 +16,7 @@ A technically disciplined developer specializing in machine learning pipelines, 
 | :--- | :--- |
 | **Artificial Intelligence** | Deep Learning, Generative AI, Natural Language Processing (NLP), OpenAI GPT Models |
 | **Languages** | Python, Java |
-| **Core CS Concepts** |: Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Database Management Systems (DBMS). |
+| **Core CS Concepts** | Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Database Management Systems (DBMS). |
 | **Data Analytics** | Marketing Analytics, Statistical Modeling, Predictive Analysis |
 
 ---
