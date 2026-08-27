@@ -34,7 +34,7 @@ A technically disciplined developer specializing in machine learning pipelines, 
 
 ### 📈 GitHub Ecosystem Benchmarks
 
-![Vani's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=vanigupta-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=percentile)
+![Vani's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=vanigupta-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=percentile&cache=1)
 
 ![Vani's Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vanigupta-dev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&exclude_repo=consumer-attention-mapping-system&langs_count=6)
 
